@@ -1,0 +1,76 @@
+.fio{
+    color: coral;
+    border-radius: 25px;
+    border-width: 5px;
+    border-style: groove;
+    border-color: rgb(38, 65, 153);
+    box-shadow: 6px 6px 6px darkorange;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align:center;
+    padding: 3px;
+     
+} 
+
+#c1{
+    width: 20%;
+    height: 35px;
+    margin-left: 70px;
+    background:linear-gradient(white,orange) ;
+    border-style: dashed;
+    border-color:rgb(12, 1, 2);
+    position:absolute;
+    left:40px;
+
+}
+
+#c2{
+    width: 20%;
+    height: 35px;
+    margin-left: 70px;
+    background:linear-gradient(white,orange) ;
+    border-style: dashed;
+    border-color:rgb(12, 1, 2);
+    position:absolute;
+    left:40px;
+
+}
+#c3{
+    width: 20%;
+    height: 35px;
+    margin-left: 70px;
+    background:linear-gradient(white,orange) ;
+    border-style: dashed;
+    border-color:rgb(12, 1, 2);
+    position:absolute;
+    left:40px;
+
+}
+#c4{
+    width: 20%;
+    height: 35px;
+    margin-left: 100px;
+    background:linear-gradient(white,orange) ;
+    border-style: dashed;
+    border-color:rgb(4, 12, 1);
+    position:absolute;
+    left:40px;
+
+}
+
+
+
+.result label{
+    color:rgb(10, 163, 190);
+    font-size: 30px;
+    padding:20px;
+    text-align:center;
+    text-transform: uppercase;
+}
+
+
+
+
+
+body{
+    background:linear-gradient( .180turn, #310402,#05356d,#172717);
+}
